@@ -26,4 +26,5 @@ export class PhotosComponent implements OnChanges {
     }
     return newRows;
   }
+  
 }
